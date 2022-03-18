@@ -13,3 +13,6 @@ Tkinter er en Python-binding til Tk GUI-verktøyet. Det er standard Python-grens
 Alle ballene har samme form, oval og en fart i x og y retning. Legg merke til at at det som i Quiz fra Sporsmaal klassen over, også her lages en tom 
 liste, som fylles opp av objektelementer fra klassen Ball. Her er ikke metodene kapslet inn, og kan manipuleres av bruker.
 
+### __repr__():
+Alle objekter bør ha __repr__() eller __str__() metodene. Her er enkel formel som viser hvordan objektet skrives ut.
+
