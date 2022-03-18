@@ -1,5 +1,5 @@
 # Quiz i OOP 
-## Oppgave fra grunnleggenden programmerings fag
+## Oppgave fra grunnleggende programmering for ingeniørlinjen
 
 Først lages listen "spørsmålene" som tom, og så sende hvert spørsmål gjennom klassen før den legges til som tuple-element
 i listen.
